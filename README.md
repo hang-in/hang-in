@@ -19,6 +19,8 @@
 
 ### 🦀 Languages & Frameworks with LLM
 
+![Anything](https://img.shields.io/badge/Anything-LLM_does_it-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -26,8 +28,10 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![and more](https://img.shields.io/badge/...-6B7280?style=flat-square)
+
 ![Korean](https://img.shields.io/badge/Korean-%ED%95%9C%EA%B5%AD%EC%96%B4-C60C30?style=flat-square&logo=googletranslate&logoColor=white)
-![Anything](https://img.shields.io/badge/Anything-LLM_does_it-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
+![Japanese](https://img.shields.io/badge/Japanese-%E6%97%A5%E6%9C%AC%E8%AA%9E-BC002D?style=flat-square&logo=googletranslate&logoColor=white)
 
 ### 🛠 Tools
 
@@ -37,6 +41,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![and more](https://img.shields.io/badge/...-6B7280?style=flat-square)
 
 ---
 
