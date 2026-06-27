@@ -17,7 +17,7 @@
 ![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Local LLM](https://img.shields.io/badge/Local_LLM-0D1117?style=flat-square&logo=ollama&logoColor=white)
 
-### 🦀 Languages & Frameworks
+### 🦀 Languages & Frameworks with LLM
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -27,6 +27,7 @@
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Korean](https://img.shields.io/badge/Korean-%ED%95%9C%EA%B5%AD%EC%96%B4-C60C30?style=flat-square&logo=googletranslate&logoColor=white)
+![Anything](https://img.shields.io/badge/Anything-LLM_does_it-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
 
 ### 🛠 Tools
 
