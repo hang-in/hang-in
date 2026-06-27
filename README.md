@@ -2,7 +2,7 @@
 
 <img src="./assets/worksonmymachine.webp" width="420" alt="works on my machine"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F2937&height=200&section=header&text=d9ng&fontSize=52&fontColor=E5E7EB&fontAlignY=40&desc=AI%20agents%20orchestration%20%C2%B7%20Rust%20%C2%B7%20local-LLM&descSize=16&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F2937&height=150&section=header&text=d9ng&fontSize=42&fontColor=E5E7EB&fontAlignY=38&desc=AI%20agents%20orchestration%20%C2%B7%20Rust%20%C2%B7%20local-LLM&descSize=15&descAlignY=68&animation=fadeIn" width="100%"/>
 
 `I orchestrate coding agents and ship the tools they live in.`
 
