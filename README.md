@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F2937&height=160&section=header&text=d9ng&fontSize=60&fontColor=E5E7EB&desc=AI%20agents%20orchestration%20%C2%B7%20Rust%20%C2%B7%20local-LLM&descSize=16&descAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1F2937&height=200&section=header&text=d9ng&fontSize=52&fontColor=E5E7EB&fontAlignY=40&desc=AI%20agents%20orchestration%20%C2%B7%20Rust%20%C2%B7%20local-LLM&descSize=16&descAlignY=62&animation=fadeIn" width="100%"/>
 
 `I orchestrate coding agents and ship the tools they live in.`
 
@@ -53,7 +53,8 @@
 
 <br/><br/>
 
-[![Blog](https://img.shields.io/badge/Blog-sol.d9ng.co.kr-0D1117?style=flat-square&logo=ghost&logoColor=white)](https://sol.d9ng.co.kr)
+[![Homepage](https://img.shields.io/badge/Homepage-sol.d9ng.co.kr-1F2937?style=flat-square&logo=googlechrome&logoColor=white)](https://sol.d9ng.co.kr)
+[![Blog](https://img.shields.io/badge/Blog-blog.d9ng.co.kr-0D1117?style=flat-square&logo=ghost&logoColor=white)](https://blog.d9ng.co.kr)
 [![GitHub](https://img.shields.io/badge/@hang--in-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hang-in)
 
 <sub>🔧 Most of these are AI-authored. I design the harness; the agents write the code.</sub>
